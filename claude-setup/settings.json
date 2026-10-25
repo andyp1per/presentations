@@ -1,0 +1,39 @@
+{
+  "permissions": {
+    "allow": [
+      "Skill",
+      "Read",
+      "Edit",
+      "Write",
+      "Grep",
+      "Glob",
+      "Bash(python3 tools/new_module.py:*)",
+      "Bash(python3 tools/new_short.py:*)",
+      "Bash(python3 tools/render_slides.py:*)",
+      "Bash(python3 tools/module_index.py:*)",
+      "Bash(python3 tools/script_check.py:*)",
+      "Bash(python3 tools/check_posts.py:*)",
+      "Bash(python3 tools/edit_pack.py:*)",
+      "Bash(python3 tools/slide_frames.py:*)",
+      "Bash(python3 tools/svganim.py:*)",
+      "Bash(python3 tools/clip_webp.py:*)",
+      "Bash(python3 tools/new_explainer.py:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git diff:*)",
+      "Bash(git log:*)",
+      "Bash(git show:*)",
+      "Bash(git status:*)",
+      "Bash(git branch:*)",
+      "Bash(git checkout:*)",
+      "Bash(ls:*)",
+      "Bash(cat:*)",
+      "Bash(grep:*)",
+      "Bash(rg:*)",
+      "Bash(find:*)",
+      "Bash(wc:*)",
+      "Bash(sort:*)",
+      "Bash(mkdir:*)"
+    ]
+  }
+}
