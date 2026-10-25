@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 380" width="900" height="380">
+
+<rect x="30.0" y="30.0" width="240.0" height="130.0" rx="10" fill="#182029" stroke="#94a2b1" stroke-width="3"/>
+<text x="150.0" y="68.0" font-family="JetBrains Mono, DejaVu Sans Mono, monospace" font-size="24" font-weight="700" fill="#94a2b1" text-anchor="middle">JOURNAL.md</text>
+<text x="150.0" y="100.0" font-family="Inter, Segoe UI, DejaVu Sans, sans-serif" font-size="20" font-weight="500" fill="#e9eef4" text-anchor="middle">what happened, dated</text>
+<text x="150.0" y="134.0" font-family="Inter, Segoe UI, DejaVu Sans, sans-serif" font-size="18" font-weight="500" fill="#94a2b1" text-anchor="middle">17,600 lines</text>
+<rect x="330.0" y="30.0" width="240.0" height="130.0" rx="10" fill="#182029" stroke="#2ec8d8" stroke-width="3"/>
+<text x="450.0" y="68.0" font-family="JetBrains Mono, DejaVu Sans Mono, monospace" font-size="24" font-weight="700" fill="#2ec8d8" text-anchor="middle">ACROBATIC_RULES</text>
+<text x="450.0" y="100.0" font-family="Inter, Segoe UI, DejaVu Sans, sans-serif" font-size="20" font-weight="500" fill="#e9eef4" text-anchor="middle">the maths, the track</text>
+<text x="450.0" y="134.0" font-family="Inter, Segoe UI, DejaVu Sans, sans-serif" font-size="18" font-weight="500" fill="#94a2b1" text-anchor="middle">ONCE -> PROVEN xN</text>
+<rect x="630.0" y="30.0" width="240.0" height="130.0" rx="10" fill="#182029" stroke="#ff8c1a" stroke-width="3"/>
+<text x="750.0" y="68.0" font-family="JetBrains Mono, DejaVu Sans Mono, monospace" font-size="24" font-weight="700" fill="#ff8c1a" text-anchor="middle">CLAUDE.md</text>
+<text x="750.0" y="100.0" font-family="Inter, Segoe UI, DejaVu Sans, sans-serif" font-size="20" font-weight="500" fill="#e9eef4" text-anchor="middle">promoted rules</text>
+<text x="750.0" y="134.0" font-family="Inter, Segoe UI, DejaVu Sans, sans-serif" font-size="18" font-weight="500" fill="#94a2b1" text-anchor="middle">3 incidents or 2 airframes</text>
+<path d="M 272.0 95.0 L 326.0 95.0" fill="none" stroke="#e9eef4" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 317.4 90.8 L 326.0 95.0 L 317.4 99.2 Z" fill="#e9eef4" stroke="#e9eef4" stroke-width="1" stroke-linejoin="round"/>
+<path d="M 572.0 95.0 L 626.0 95.0" fill="none" stroke="#e9eef4" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 617.4 90.8 L 626.0 95.0 L 617.4 99.2 Z" fill="#e9eef4" stroke="#e9eef4" stroke-width="1" stroke-linejoin="round"/>
+<path d="M 385.0 246.0 L 401.0 366.0 L 499.0 366.0 L 515.0 246.0" fill="none" stroke="#94a2b1" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 373.0 246.0 L 527.0 246.0" fill="none" stroke="#94a2b1" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 425.5 352.0 L 424.0 260.0" fill="none" stroke="#2a3440" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 450.0 352.0 L 450.0 260.0" fill="none" stroke="#2a3440" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 474.5 352.0 L 476.0 260.0" fill="none" stroke="#2a3440" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="425.0" cy="242.0" r="16.0" fill="#182029" stroke="#e9eef4" stroke-width="3"/>
+<circle cx="458.0" cy="236.0" r="19.0" fill="#182029" stroke="#e9eef4" stroke-width="3"/>
+<circle cx="488.0" cy="244.0" r="14.0" fill="#182029" stroke="#e9eef4" stroke-width="3"/>
+<text x="549.0" y="288.0" font-family="Inter, Segoe UI, DejaVu Sans, sans-serif" font-size="24" font-weight="700" fill="#ff5252" text-anchor="start">Do not resurrect</text>
+<text x="549.0" y="318.0" font-family="Inter, Segoe UI, DejaVu Sans, sans-serif" font-size="20" font-weight="500" fill="#94a2b1" text-anchor="start">56 dead ideas, each one dated</text>
+<text x="549.0" y="344.0" font-family="Inter, Segoe UI, DejaVu Sans, sans-serif" font-size="20" font-weight="500" fill="#94a2b1" text-anchor="start">and the measurement that killed it</text>
+<g><circle r="13" fill="#4ade80" stroke="#e9eef4" stroke-width="3"/><animateMotion values="150.0,186.0;450.0,186.0;450.0,186.0;750.0,186.0;750.0,186.0;750.0,186.0" keyTimes="0;0.12;0.2;0.32;0.44;1" dur="8s" repeatCount="indefinite" calcMode="linear"/><animate attributeName="opacity" values="1;0" keyTimes="0;0.44" dur="8s" repeatCount="indefinite" calcMode="discrete"/></g>
+<g opacity="0"><circle r="14" fill="#182029" stroke="#ff5252" stroke-width="3"/><animateMotion values="150.0,186.0;150.0,186.0;450.0,186.0;450.0,186.0;465.3,179.1;478.8,173.3;490.3,168.8;500.0,165.4;507.8,163.1;513.8,162.1;517.8,162.2;520.0,163.5;520.3,166.0;518.8,169.6;515.3,174.4;510.0,180.4;502.8,187.5;493.8,195.8;482.8,205.3;470.0,216.0;470.0,216.0;470.0,216.0" keyTimes="0.0000;0.5000;0.6200;0.6800;0.6888;0.6975;0.7063;0.7150;0.7238;0.7325;0.7413;0.7500;0.7588;0.7675;0.7763;0.7850;0.7938;0.8025;0.8113;0.8200;0.8400;1.0000" dur="8s" repeatCount="indefinite" calcMode="linear"/><animate attributeName="opacity" values="0;1;0" keyTimes="0;0.5;0.97" dur="8s" repeatCount="indefinite" calcMode="discrete"/></g>
+</svg>

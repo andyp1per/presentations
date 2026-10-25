@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 440" width="900" height="440">
+
+<rect x="40.0" y="334.0" width="820.0" height="86.0" rx="10" fill="#182029" stroke="#94a2b1" stroke-width="3"/>
+<text x="66.0" y="370.0" font-family="Inter, Segoe UI, DejaVu Sans, sans-serif" font-size="28" font-weight="700" fill="#94a2b1" text-anchor="start">Offline</text>
+<text x="66.0" y="402.0" font-family="Inter, Segoe UI, DejaVu Sans, sans-serif" font-size="20" font-weight="500" fill="#94a2b1" text-anchor="start">analysis scripts, Lua bench</text>
+<text x="834.0" y="384.0" font-family="Inter, Segoe UI, DejaVu Sans, sans-serif" font-size="24" font-weight="500" fill="#e9eef4" text-anchor="end">86 scripts</text>
+<rect x="85.0" y="232.0" width="730.0" height="86.0" rx="10" fill="#182029" stroke="#2ec8d8" stroke-width="3"/>
+<text x="111.0" y="268.0" font-family="Inter, Segoe UI, DejaVu Sans, sans-serif" font-size="28" font-weight="700" fill="#2ec8d8" text-anchor="start">Native SITL</text>
+<text x="111.0" y="300.0" font-family="Inter, Segoe UI, DejaVu Sans, sans-serif" font-size="20" font-weight="500" fill="#94a2b1" text-anchor="start">Rise255 model, autotest</text>
+<text x="789.0" y="282.0" font-family="Inter, Segoe UI, DejaVu Sans, sans-serif" font-size="24" font-weight="500" fill="#e9eef4" text-anchor="end">34 tests</text>
+<rect x="130.0" y="130.0" width="640.0" height="86.0" rx="10" fill="#182029" stroke="#2ec8d8" stroke-width="3"/>
+<text x="156.0" y="166.0" font-family="Inter, Segoe UI, DejaVu Sans, sans-serif" font-size="28" font-weight="700" fill="#2ec8d8" text-anchor="start">RealFlight</text>
+<text x="156.0" y="198.0" font-family="Inter, Segoe UI, DejaVu Sans, sans-serif" font-size="20" font-weight="500" fill="#94a2b1" text-anchor="start">same autotest, virtual joystick</text>
+<text x="744.0" y="180.0" font-family="Inter, Segoe UI, DejaVu Sans, sans-serif" font-size="24" font-weight="500" fill="#e9eef4" text-anchor="end">17 tests</text>
+<rect x="175.0" y="28.0" width="550.0" height="86.0" rx="10" fill="#182029" stroke="#ff8c1a" stroke-width="3"/>
+<text x="201.0" y="64.0" font-family="Inter, Segoe UI, DejaVu Sans, sans-serif" font-size="28" font-weight="700" fill="#ff8c1a" text-anchor="start">The Marmott</text>
+<text x="201.0" y="96.0" font-family="Inter, Segoe UI, DejaVu Sans, sans-serif" font-size="20" font-weight="500" fill="#94a2b1" text-anchor="start">a field card per session</text>
+<text x="699.0" y="78.0" font-family="Inter, Segoe UI, DejaVu Sans, sans-serif" font-size="24" font-weight="500" fill="#e9eef4" text-anchor="end">the only witness</text>
+</svg>

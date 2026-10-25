@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 300" width="900" height="300">
+
+<text x="244.0" y="82.0" font-family="Inter, Segoe UI, DejaVu Sans, sans-serif" font-size="24" font-weight="500" fill="#e9eef4" text-anchor="end">17 Jul, 10 m loop</text>
+<rect x="260.0" y="50.0" width="0" height="50" rx="6" fill="#4ade80"><animate attributeName="width" values="0;357.0;357.0" keyTimes="0;0.3;1" dur="5s" repeatCount="indefinite"/></rect>
+<text x="631.0" y="82.0" font-family="Inter, Segoe UI, DejaVu Sans, sans-serif" font-size="24" font-weight="500" fill="#4ade80" text-anchor="start">11.9%: flew clean</text>
+<text x="244.0" y="192.0" font-family="Inter, Segoe UI, DejaVu Sans, sans-serif" font-size="24" font-weight="500" fill="#e9eef4" text-anchor="end">19 Jul, 15 m loop</text>
+<rect x="260.0" y="160.0" width="0" height="50" rx="6" fill="#ff5252"><animate attributeName="width" values="0;264.0;264.0" keyTimes="0;0.3;1" dur="5s" repeatCount="indefinite"/></rect>
+<text x="538.0" y="192.0" font-family="Inter, Segoe UI, DejaVu Sans, sans-serif" font-size="24" font-weight="500" fill="#ff5252" text-anchor="start">8.8%: crashed</text>
+<path d="M 260.0 280.0 L 260.0 30.0" fill="none" stroke="#94a2b1" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="440.0" y="294.0" font-family="Inter, Segoe UI, DejaVu Sans, sans-serif" font-size="20" font-weight="500" fill="#94a2b1" text-anchor="middle">short of the pull it needed</text>
+</svg>

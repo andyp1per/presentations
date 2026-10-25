@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 420" width="900" height="420">
+
+<path d="M 330.0 140.0 L 350.0 390.0 L 550.0 390.0 L 570.0 140.0" fill="none" stroke="#94a2b1" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 314.0 140.0 L 586.0 140.0" fill="none" stroke="#94a2b1" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 390.0 370.0 L 388.0 160.0" fill="none" stroke="#2a3440" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 430.0 370.0 L 430.0 160.0" fill="none" stroke="#2a3440" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 470.0 370.0 L 472.0 160.0" fill="none" stroke="#2a3440" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 510.0 370.0 L 514.0 160.0" fill="none" stroke="#2a3440" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="390.0" cy="120.0" r="26.0" fill="#182029" stroke="#e9eef4" stroke-width="3"/>
+<circle cx="450.0" cy="102.0" r="30.0" fill="#182029" stroke="#e9eef4" stroke-width="3"/>
+<circle cx="510.0" cy="124.0" r="24.0" fill="#182029" stroke="#e9eef4" stroke-width="3"/>
+<circle cx="430.0" cy="70.0" r="22.0" fill="#182029" stroke="#e9eef4" stroke-width="3"/>
+<circle cx="490.0" cy="74.0" r="20.0" fill="#182029" stroke="#e9eef4" stroke-width="3"/>
+<rect x="10.0" y="22.0" width="300.0" height="44.0" rx="6" fill="#182029"/>
+<text x="160.0" y="50.0" font-family="Inter, Segoe UI, DejaVu Sans, sans-serif" font-size="21" font-weight="500" fill="#e9eef4" text-anchor="middle">"Slow over the top is safe"</text>
+<rect x="595.0" y="22.0" width="300.0" height="44.0" rx="6" fill="#182029"/>
+<text x="745.0" y="50.0" font-family="Inter, Segoe UI, DejaVu Sans, sans-serif" font-size="21" font-weight="500" fill="#e9eef4" text-anchor="middle">"Air mode holds attitude"</text>
+<rect x="10.0" y="182.0" width="300.0" height="44.0" rx="6" fill="#182029"/>
+<text x="160.0" y="210.0" font-family="Inter, Segoe UI, DejaVu Sans, sans-serif" font-size="21" font-weight="500" fill="#e9eef4" text-anchor="middle">Euler pitch near vertical</text>
+<rect x="595.0" y="182.0" width="300.0" height="44.0" rx="6" fill="#182029"/>
+<text x="745.0" y="210.0" font-family="Inter, Segoe UI, DejaVu Sans, sans-serif" font-size="21" font-weight="500" fill="#e9eef4" text-anchor="middle">Trusting a .parm file</text>
+<rect x="10.0" y="332.0" width="300.0" height="44.0" rx="6" fill="#182029"/>
+<text x="160.0" y="360.0" font-family="Inter, Segoe UI, DejaVu Sans, sans-serif" font-size="21" font-weight="500" fill="#e9eef4" text-anchor="middle">Rate FF off live speed</text>
+<rect x="595.0" y="332.0" width="300.0" height="44.0" rx="6" fill="#182029"/>
+<text x="745.0" y="360.0" font-family="Inter, Segoe UI, DejaVu Sans, sans-serif" font-size="21" font-weight="500" fill="#e9eef4" text-anchor="middle">Shrink figures, shrink box</text>
+</svg>

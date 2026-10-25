@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480" width="640" height="480">
+
+<circle cx="360.0" cy="230.0" r="160.0" fill="none" stroke="#ff8c1a" stroke-width="4"/>
+<path d="M 360.0 230.0 L 498.6 150.0" fill="none" stroke="#94a2b1" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="440.0" y="172.0" font-family="Inter, Segoe UI, DejaVu Sans, sans-serif" font-size="24" font-weight="500" fill="#94a2b1" text-anchor="middle">r</text>
+<path d="M 390.0 70.0 L 310.0 70.0" fill="none" stroke="#2ec8d8" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 321.5 75.6 L 310.0 70.0 L 321.5 64.4 Z" fill="#2ec8d8" stroke="#2ec8d8" stroke-width="1" stroke-linejoin="round"/>
+<text x="360.0" y="50.0" font-family="JetBrains Mono, DejaVu Sans Mono, monospace" font-size="24" font-weight="500" fill="#2ec8d8" text-anchor="middle">v_top</text>
+<path d="M 330.0 390.0 L 420.0 390.0" fill="none" stroke="#2ec8d8" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 408.5 384.4 L 420.0 390.0 L 408.5 395.6 Z" fill="#2ec8d8" stroke="#2ec8d8" stroke-width="1" stroke-linejoin="round"/>
+<text x="360.0" y="426.0" font-family="JetBrains Mono, DejaVu Sans Mono, monospace" font-size="24" font-weight="500" fill="#2ec8d8" text-anchor="middle">v_bot</text>
+<path d="M 580.0 390.0 L 580.0 70.0" fill="none" stroke="#94a2b1" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 572.0 390.0 L 588.0 390.0" fill="none" stroke="#94a2b1" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 572.0 70.0 L 588.0 70.0" fill="none" stroke="#94a2b1" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="596.0" y="238.0" font-family="Inter, Segoe UI, DejaVu Sans, sans-serif" font-size="24" font-weight="500" fill="#94a2b1" text-anchor="start">2r</text>
+<path d="M 94.0 370.0 L 126.0 370.0" fill="none" stroke="#e9eef4" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 85.0 365.0 L 103.0 365.0" fill="none" stroke="#94a2b1" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 117.0 365.0 L 135.0 365.0" fill="none" stroke="#94a2b1" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 110.0 360.0 L 110.0 270.0" fill="none" stroke="#ff8c1a" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 104.4 281.5 L 110.0 270.0 L 115.6 281.5 Z" fill="#ff8c1a" stroke="#ff8c1a" stroke-width="1" stroke-linejoin="round"/>
+<text x="110.0" y="258.0" font-family="JetBrains Mono, DejaVu Sans Mono, monospace" font-size="22" font-weight="500" fill="#ff8c1a" text-anchor="middle">thrust: n g</text>
+<path d="M 110.0 380.0 L 110.0 420.0" fill="none" stroke="#94a2b1" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 114.2 411.4 L 110.0 420.0 L 105.8 411.4 Z" fill="#94a2b1" stroke="#94a2b1" stroke-width="1" stroke-linejoin="round"/>
+<text x="110.0" y="448.0" font-family="JetBrains Mono, DejaVu Sans Mono, monospace" font-size="22" font-weight="500" fill="#94a2b1" text-anchor="middle">weight</text>
+</svg>
