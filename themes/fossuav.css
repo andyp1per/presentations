@@ -1,0 +1,313 @@
+/* @theme fossuav */
+
+/*
+ * Slide theme for the fossuav YouTube modules.
+ *
+ * Rendered at 1280x720 and scaled to 1080p, so the floor for body text is
+ * 24px. A viewer on a phone is the constraint that matters, not a viewer
+ * sitting in front of a laptop.
+ *
+ * Colours are chosen to survive YouTube's compression: dark background,
+ * high-chroma accents, no thin light-on-light text.
+ */
+
+@import 'default';
+
+:root {
+  --bg: #10141a;
+  --panel: #182029;
+  --fg: #e9eef4;
+  --dim: #94a2b1;
+  --accent: #ff8c1a;
+  --accent-2: #2ec8d8;
+  --warn: #ff5252;
+  --ok: #4ade80;
+  --rule: #2a3440;
+}
+
+section {
+  background: var(--bg);
+  color: var(--fg);
+  font-family: "Inter", "Segoe UI", "DejaVu Sans", system-ui, sans-serif;
+  font-size: 26px;
+  line-height: 1.45;
+  padding: 56px 68px;
+  letter-spacing: 0.005em;
+}
+
+section > *:first-child {
+  margin-top: 0;
+}
+
+h1 {
+  color: var(--fg);
+  font-size: 54px;
+  font-weight: 700;
+  line-height: 1.1;
+  margin: 0 0 0.3em;
+  letter-spacing: -0.02em;
+}
+
+h2 {
+  color: var(--accent);
+  font-size: 40px;
+  font-weight: 650;
+  line-height: 1.15;
+  margin: 0 0 0.45em;
+  letter-spacing: -0.01em;
+}
+
+h3 {
+  color: var(--accent-2);
+  font-size: 30px;
+  font-weight: 600;
+  margin: 0.9em 0 0.3em;
+}
+
+p, li {
+  color: var(--fg);
+}
+
+strong {
+  color: var(--accent);
+  font-weight: 650;
+}
+
+em {
+  color: var(--accent-2);
+  font-style: normal;
+  font-weight: 600;
+}
+
+ul, ol {
+  margin: 0.2em 0;
+}
+
+li {
+  margin: 0.42em 0;
+}
+
+li::marker {
+  color: var(--accent);
+}
+
+a {
+  color: var(--accent-2);
+  text-decoration: none;
+  border-bottom: 1px solid rgba(46, 200, 216, 0.4);
+}
+
+hr {
+  border: 0;
+  border-top: 2px solid var(--rule);
+  margin: 0.8em 0;
+}
+
+blockquote {
+  border-left: 5px solid var(--accent);
+  background: var(--panel);
+  margin: 0.6em 0;
+  padding: 0.6em 1em;
+  color: var(--fg);
+  font-size: 0.95em;
+}
+
+blockquote > *:last-child {
+  margin-bottom: 0;
+}
+
+code {
+  font-family: "JetBrains Mono", "DejaVu Sans Mono", ui-monospace, monospace;
+  background: #0b0e13;
+  color: var(--accent-2);
+  border-radius: 4px;
+  padding: 0.08em 0.32em;
+  font-size: 0.92em;
+}
+
+pre {
+  background: #0b0e13;
+  border: 1px solid var(--rule);
+  border-radius: 8px;
+  padding: 0.8em 1em;
+  font-size: 0.78em;
+  line-height: 1.4;
+}
+
+pre code {
+  background: none;
+  color: var(--fg);
+  padding: 0;
+}
+
+/*
+ * The imported default theme styles tables for a light background, which
+ * leaves body cells dark-on-dark here. Every colour below is set explicitly
+ * rather than inherited, including the row striping.
+ */
+table {
+  display: table;
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.86em;
+  margin: 0.4em 0;
+  background: transparent;
+}
+
+table thead,
+table tbody,
+table tr {
+  background: transparent;
+}
+
+table tbody tr:nth-child(odd),
+table tbody tr:nth-child(even) {
+  background: transparent;
+}
+
+table tbody tr:nth-child(even) {
+  background: rgba(255, 255, 255, 0.03);
+}
+
+th {
+  background: var(--panel);
+  color: var(--accent);
+  text-align: left;
+  font-weight: 650;
+  border: 0;
+  border-bottom: 2px solid var(--rule);
+  padding: 0.45em 0.7em;
+}
+
+td {
+  color: var(--fg);
+  background: transparent;
+  border: 0;
+  border-bottom: 1px solid var(--rule);
+  padding: 0.45em 0.7em;
+}
+
+img {
+  border-radius: 8px;
+}
+
+/* pagination and footer sit out of the way of a lower-third overlay */
+section::after {
+  color: var(--dim);
+  font-size: 18px;
+  right: 32px;
+  bottom: 20px;
+}
+
+footer {
+  color: var(--dim);
+  font-size: 18px;
+  left: 68px;
+  bottom: 20px;
+}
+
+/*
+ * Layout and emphasis classes. Apply per slide with
+ * <!-- _class: title --> or to the deck with <!-- class: ... -->.
+ */
+
+/* Opening and section-break slides */
+section.title,
+section.section {
+  justify-content: center;
+  text-align: left;
+}
+
+section.title h1 {
+  font-size: 68px;
+}
+
+section.title h2 {
+  color: var(--dim);
+  font-size: 32px;
+  font-weight: 500;
+}
+
+section.section h1 {
+  color: var(--accent);
+  font-size: 60px;
+}
+
+/* One number, full screen. Use for the moments the whole slide is a fact. */
+section.stat {
+  justify-content: center;
+  text-align: center;
+}
+
+section.stat h1 {
+  color: var(--accent);
+  font-size: 150px;
+  line-height: 1;
+  margin-bottom: 0.12em;
+}
+
+section.stat h2 {
+  color: var(--fg);
+  font-size: 34px;
+  font-weight: 500;
+}
+
+section.stat p {
+  color: var(--dim);
+  font-size: 24px;
+}
+
+/* Two even columns, split on a --- inside a <div class="cols"> */
+div.cols {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1.6em;
+  align-items: start;
+}
+
+div.cols h3 {
+  margin-top: 0;
+}
+
+/* Callouts */
+div.warn,
+div.note,
+div.ok {
+  border-radius: 8px;
+  padding: 0.7em 1em;
+  margin: 0.6em 0;
+  font-size: 0.92em;
+  border-left: 5px solid var(--dim);
+  background: var(--panel);
+}
+
+div.warn {
+  border-left-color: var(--warn);
+}
+
+div.ok {
+  border-left-color: var(--ok);
+}
+
+div.note {
+  border-left-color: var(--accent-2);
+}
+
+/* Parameter reference block - the thing viewers pause the video to read */
+div.params {
+  background: var(--panel);
+  border: 1px solid var(--rule);
+  border-radius: 8px;
+  padding: 0.5em 1em;
+  font-family: "JetBrains Mono", "DejaVu Sans Mono", ui-monospace, monospace;
+  font-size: 0.82em;
+}
+
+/* Dim text for asides and attributions */
+.dim {
+  color: var(--dim);
+}
+
+.big {
+  font-size: 1.35em;
+}

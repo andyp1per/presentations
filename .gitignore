@@ -1,0 +1,5 @@
+# rendered output from tools/render_slides.py; the published copies are
+# talks/*/slides.pdf and slides.html, copied out of here
+build/
+__pycache__/
+*.pyc
