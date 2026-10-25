@@ -17,8 +17,8 @@ aircraft, and each one became a rule.
 
 | File | What it is |
 |------|-----------|
+| [Play the slides](https://andyp1per.github.io/presentations/talks/devconf-2026-freestyle/slides.html) | The deck as presented, animations running, in the browser: arrows or Space to move, `f` for full screen. The same file is [slides.html](slides.html) here |
 | [slides.pdf](slides.pdf) | Every slide: 34 in the talk, 14 backup. Builds are pre-revealed and animations show their first frame |
-| [slides.html](slides.html) | The deck as presented, animations running. Download it together with `assets/` and open it in a browser: arrows or Space to move, `f` for full screen |
 | [slides.md](slides.md) | The Marp source |
 | [script.md](script.md) | The speaker notes, slide by slide |
 | [assets/](assets/) | Photos, clips, and the diagrams with `diagrams.py`, the script that draws them |

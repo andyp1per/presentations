@@ -325,6 +325,7 @@ $$
 .reveal li { border-left: 5px solid var(--ok); background: var(--panel); border-radius: 8px; padding: 0.5em 1em; font-size: 0.92em; }
 .reveal li strong { color: var(--ok); }
 .reveal li span { display: block; margin-top: 0.2em; }
+.reveal li a { color: inherit; }
 </style>
 
 <div class="cols">
@@ -347,7 +348,7 @@ $$
 
 <div class="reveal">
 
-* <strong>It can. The PR goes up now, live.</strong><span>Thrust past 90 deg, vertical arc waypoints. `PSC_TVEC_EN`, off by default.</span>
+* <strong>It can: [PR #34871](https://github.com/ArduPilot/ardupilot/pull/34871), opened live at DevCon.</strong><span>Thrust past 90 deg, vertical arc waypoints. `PSC_TVEC_EN`, off by default.</span>
 
 </div>
 

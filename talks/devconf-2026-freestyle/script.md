@@ -154,7 +154,7 @@ Or has it?
 
 [CLICK]
 
-[NOTE] The PR goes up live from arc-fixes-master. Squash its two fixup commits and push it to the fork before the talk, so opening it is one click. Put its number on the slide afterwards.
+[NOTE] Opened live at the talk on 2026-10-24 as ArduPilot PR #34871, Inverted arc and spline waypoints. The slide now carries the number.
 
 It can. There's a PR for exactly that, and it goes up now. Inverted
 S-curves through arc waypoints, with the thrust allowed past ninety
